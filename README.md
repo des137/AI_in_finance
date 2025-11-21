@@ -1,2 +1,2 @@
-# AI_in_finance
+# AI in finance
 How can AI help in finance?
