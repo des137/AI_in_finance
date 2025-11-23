@@ -1,0 +1,10 @@
+torch
+transformers
+datasets
+accelerate
+hydra-core
+omegaconf
+wandb
+rich
+tqdm
+pytest

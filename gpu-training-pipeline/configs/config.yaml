@@ -1,0 +1,14 @@
+defaults:
+  - model: distilbert
+  - data: imdb
+  - trainer: gpu
+  - task: classification
+
+experiment_name: "gpu_training_pipeline"
+
+logging:
+  wandb: false
+  project: "gpu-training-pipeline"
+  run_name: "debug-run"
+
+seed: 42

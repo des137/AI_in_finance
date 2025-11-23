@@ -1,0 +1,7 @@
+name: "imdb"
+text_field: "text"
+label_field: "label"
+max_length: 256
+batch_size: 16
+num_workers: 2
+subset_ratio: 0.1

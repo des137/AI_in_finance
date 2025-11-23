@@ -1,0 +1,2 @@
+task_type: "text_classification"
+metric: "accuracy"
