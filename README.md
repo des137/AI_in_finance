@@ -1,1 +1,1 @@
-# AI in finance
+# AI examples
